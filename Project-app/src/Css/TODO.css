@@ -1,0 +1,102 @@
+ /* .uni{
+    border:3px solid red; 
+    height:800px;
+    width:1600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://t4.ftcdn.net/jpg/02/10/45/95/360_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg");
+    background-size: contain;
+} */
+
+/* .main{
+     border:3px solid red; 
+    height:600px;
+    width:700px;
+    display: flex;
+    border-radius: 5%;
+    flex-direction:column;
+    background-image: linear-gradient(rgba(0, 200, 255, 0.422),white);
+    box-shadow: 7px 7px 7px black;
+     flex-wrap: wrap; 
+    overflow-x: auto;
+} */
+.demo{
+    height:50px;
+    width:400px;
+    margin:12px;
+    border-radius: 8%;
+    background-color: white;
+    color:black
+}
+.wow{
+    height:50px;
+    width:200px;
+    margin:10px;
+    font-size: 30px;;
+    color:black;
+    background-color: rgba(0, 69, 68, 0.251);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    
+
+}
+/* .maap{
+    border:3px solid red; 
+    height:100px;
+    width:700px;
+    display: flex;
+    justify-content: space-between;
+    background-image: linear-gradient(rgba(18, 101, 124, 0.422),white);
+    box-shadow: 7px 7px 7px rgb(228, 220, 220);
+    font-size: 20px;
+    
+    
+} */
+::placeholder{
+    font-size: 25px;
+    color: blue;
+}
+.del{
+     /* border: 2px solid red; */
+     background-color: aquamarine;
+     color:white;
+     font-size: 20px;
+     
+     
+     
+}
+button{
+    /* display: flex;
+    flex-direction: row; */
+    justify-content: space-between;
+    margin:10px
+
+
+} 
+/* .bb{
+    /* border: 3px solid red; */
+    /* height: 60px;
+    width:200px;
+    display:flex
+} */
+h2{
+    display: flex;
+    justify-content: center;
+    color:rgba(0, 0, 255, 0.407)
+}
+.upbtn{
+    height:50px; 
+    width:150px;
+    background-color:  rgba(0, 69, 68, 0.251);
+    /* color:white; */
+}
+ /* .update{
+    display: flex;
+    background-color: white; 
+}  */
+.demo{
+    font-size: 20px;
+}
